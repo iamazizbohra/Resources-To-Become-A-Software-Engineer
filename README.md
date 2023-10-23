@@ -6,10 +6,10 @@ Follow these resources in order to become a better software engineer
 ## Programming Language (Java)
 
 ### Books
-1. Head First Java
-2. Java For Dummies
-3. Core Java Volume I - Fundamentals
-3. Core Java Volume II - Advanced
+1. [Head First Java](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/Java/Head_First_Java_2nd_Edition.pdf)
+2. [Java For Dummies](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/Java/Java_For_Dummies_8th_Edition.pdf)
+3. [Core Java Volume I - Fundamentals](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/Java/Core%20java/Core%20Java%20Volume%20I%20-%20Fundamentals%2011th%20Edition.pdf)
+3. [Core Java Volume II - Advanced](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/Java/Core%20java/Core%20Java%2C%20Volume%20II%20-Advanced%20Features%2010th%20Edition.pdf)
 
 ### Online Tutorial
 1. [GeeksForGeeks](https://www.geeksforgeeks.org/courses/Java-Programming-basic-to-advanced)
@@ -20,8 +20,8 @@ Follow these resources in order to become a better software engineer
 ### Data Structures and Algorithms
 
 ### Books
-1. Introduction to Algorithms
-2. Algorithms
+1. [Introduction to Algorithms](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/DSA/Introduction-to-Algorithms-4th-Edition.pdf)
+2. [Algorithms](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/DSA/Algorithms-4th-Edition.pdf)
 
 ### Online Tutorial
 1. [GeeksForGeeks](https://www.geeksforgeeks.org/courses/dsa-self-paced)
@@ -35,9 +35,9 @@ Follow these resources in order to become a better software engineer
 
 ### Books
 
-1. Operting Systems
-2. Database Management System
-3. Computer Networks
+1. [Operting Systems](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/CS%20Subjects/Operating%20Systems/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
+2. [Database Management System](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/CS%20Subjects/DBMS/Database%20System%20Concepts%206th%20edition.pdf)
+3. [Computer Networks](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/CS%20Subjects/Computer%20Networks/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf)
 
 ### Online Tutorial
 
@@ -64,10 +64,10 @@ Follow these resources in order to become a better software engineer
 ### Low Level Design (Object Oriented Programming)
 
 ### Books
-1. Head First Object Oriented Analysis Design
-2. The Object Oriented Thought Process
-3. UML Distilled
-4. Design Patterns
+1. [Head First Object Oriented Analysis Design](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/Head_First_Object-Oriented_Analysis_Design.pdf)
+2. [The Object Oriented Thought Process](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/The_Object_Oriented_Thought_Process.pdf)
+3. [UML Distilled](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/UML-Distrilled-3rd-Edition.pdf)
+4. [Design Patterns](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/Head%20First%20Design%20Patterns.pdf)
 
 ### Online Tutorial
 
@@ -77,20 +77,29 @@ Follow these resources in order to become a better software engineer
 
 
 ### Interview Questions
-1. [Resource 1](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
-2. [Resource 2](https://www.sartiano.it/marco/diigo/System%20Design/Grokking%20the%20Object%20Oriented%20Design%20Interview.html)
+
+1. [Resource 1](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
+2. [Resource 2](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+3. [Resource 3](https://www.sartiano.it/marco/diigo/System%20Design/Grokking%20the%20Object%20Oriented%20Design%20Interview.html)
 
 ---
 
 ### High Level Design (Distributed Systems)
 
 ### Books
-1. Designing Data Intensive Applications
+
+1. [Designing Data Intensive Applications](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/HLD/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf)
 
 ### Online Tutorial
 
 1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 2. [System Design](https://github.com/karanpratapsingh/system-design)
+
+---
+
+### Guide to Coding Interview
+
+1. Cracking-the-Coding-Interview
 
 ---
 
