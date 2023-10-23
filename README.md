@@ -26,7 +26,7 @@ Follow these resources in order to become a better software engineer
 ### Online Tutorial
 1. [GeeksForGeeks](https://www.geeksforgeeks.org/courses/dsa-self-paced)
 
-### Pratice
+### Pratice Coding Problems
 1. [LeetCode](https://leetcode.com/)
 
 ---
@@ -67,7 +67,7 @@ Follow these resources in order to become a better software engineer
 1. [Head First Object Oriented Analysis Design](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/Head_First_Object-Oriented_Analysis_Design.pdf)
 2. [The Object Oriented Thought Process](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/The_Object_Oriented_Thought_Process.pdf)
 3. [UML Distilled](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/UML-Distrilled-3rd-Edition.pdf)
-4. [Design Patterns](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/Head%20First%20Design%20Patterns.pdf)
+4. [Head First Design Patterns](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/LLD/Head%20First%20Design%20Patterns.pdf)
 
 ### Online Tutorial
 
@@ -76,7 +76,7 @@ Follow these resources in order to become a better software engineer
 3. [Design Principles](https://iamazizbohra.hashnode.dev/the-ultimate-guide-to-software-design-principles-part-1)
 
 
-### Interview Questions
+### LLD Interview Questions
 
 1. [Resource 1](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 2. [Resource 2](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
