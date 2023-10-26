@@ -26,7 +26,7 @@ Follow these resources in order to become a better software engineer
 ### Online Tutorial
 1. [GeeksForGeeks](https://www.geeksforgeeks.org/courses/dsa-self-paced)
 
-### Pratice Coding Problems
+### Practice Coding Problems
 1. [LeetCode](https://leetcode.com/)
 
 ---
@@ -35,7 +35,7 @@ Follow these resources in order to become a better software engineer
 
 ### Books
 
-1. [Operting Systems](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/CS%20Subjects/Operating%20Systems/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
+1. [Operating Systems](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/CS%20Subjects/Operating%20Systems/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
 2. [Database Management System](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/CS%20Subjects/DBMS/Database%20System%20Concepts%206th%20edition.pdf)
 3. [Computer Networks](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/CS%20Subjects/Computer%20Networks/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf)
 
@@ -43,7 +43,7 @@ Follow these resources in order to become a better software engineer
 
 1. [GeeksForGeeks - OS DBMS CN](https://www.geeksforgeeks.org/courses/SDE-theory)
 2. [Gate Smashers - Computer Organization and Architecture](https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX&si=vRGgDNpxx3S6Hsxy)
-3. [Gate Smashers - Operting Systems](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=YQwJf3pfT03u-sTf)
+3. [Gate Smashers - Operating Systems](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=YQwJf3pfT03u-sTf)
 4. [Gate Smashers - Database Management System](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=QXhcXrMxceBNqIa1)
 5. [Gate Smashers - Computer Networks](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=rj8ZH55itWlCeTgX)
 
