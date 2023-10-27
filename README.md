@@ -1,4 +1,4 @@
-# Resources to Become a Software Engineer
+# Resources to Become a Better Software Engineer
 Follow these resources in order to become a better software engineer
 
 ---
