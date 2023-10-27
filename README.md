@@ -97,6 +97,12 @@ Follow these resources in order to become a better software engineer
 
 ---
 
+### Resume Template
+
+[Single Page Resume](https://github.com/deedy/Deedy-Resume)
+
+---
+
 ### Guide to Coding Interview
 
 1. [Cracking-the-Coding-Interview](https://github.com/iamazizbohra/Resources-To-Become-A-Software-Engineer/blob/main/Interview/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
