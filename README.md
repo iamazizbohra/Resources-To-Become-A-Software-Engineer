@@ -121,9 +121,15 @@ Follow these resources in order to become a better software engineer
 
 ---
 
-### Salary Negotiation
+### Levels & Salary
 
 1. [Levels](https://www.levels.fyi/)
+
+---
+
+### Layoffs
+
+1. [Layoffs](https://layoffs.fyi/)
 
 ---
 
