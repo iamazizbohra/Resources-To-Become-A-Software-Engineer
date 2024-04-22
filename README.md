@@ -74,6 +74,7 @@ Follow these resources in order to become a better software engineer
 1. [4 Pillars of OOP](https://1kevinson.com/4-pillars-of-object-oriented-programming/)
 2. [Java Guides](https://www.javaguides.net/p/object-oriented-design.html)
 3. [Design Principles](https://iamazizbohra.hashnode.dev/the-ultimate-guide-to-software-design-principles-part-1)
+4. [Design Patterns](https://iamazizbohra.hashnode.dev/software-design-patterns-distilled)
 
 
 ### LLD Interview Questions
