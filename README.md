@@ -93,8 +93,8 @@ Follow these resources in order to become a better software engineer
 
 ### Online Tutorial
 
-1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
-2. [System Design](https://github.com/karanpratapsingh/system-design)
+1. [System Design Primer By Donne Martin](https://github.com/donnemartin/system-design-primer)
+2. [System Design By Karan Pratap Singh](https://github.com/karanpratapsingh/system-design)
 
 ---
 
